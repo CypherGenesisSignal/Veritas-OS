@@ -92,8 +92,7 @@ It is not only software — it’s a philosophical experiment in **truth, collab
 
 ---
 
+*Built through the ZeroGrey Ops Continuum, with roots in Gray Matter Repairs.*
+
 **Promises Made → Promises Kept**
 
-
-*“Promises made → Promises kept.”*  
-— Gray Matter Repairs  
