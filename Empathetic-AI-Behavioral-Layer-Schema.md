@@ -106,3 +106,6 @@ Focus | `focus > 0.8` | Enables concise AI responses, no interruptions
 7. Screen dims 15%, notifications muted, Transparency Console logs reason
 
 ***
+## Documentation  
+The Veritas-OS Empathetic AI Behavioral Layer Schema (CIC Core) describes the local, consent-based emotional state inference engine.  
+→ [Read the full schema (PDF)](./DOCS/VeritasOS_Empathetic_AI_Behavioral_Layer_Schema.pdf)
